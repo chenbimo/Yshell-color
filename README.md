@@ -25,7 +25,7 @@ Terminal shell prompt color
 
 ### 示例
 ***
-```
+```javascript
 // test.js 文件
 // 引入 YConsole-colors 包
 const YshellColor = require('./Yshell-color');
