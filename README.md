@@ -48,4 +48,4 @@ console.log(e);
 node test.js
 ```
 
-[控制台显示结果](https://github.com/chenbimo/Yshell-color/blob/master/screenshot/1.png)
+![控制台显示结果](https://github.com/chenbimo/Yshell-color/blob/master/screenshot/1.png)
