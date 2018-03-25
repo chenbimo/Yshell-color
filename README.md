@@ -1,9 +1,9 @@
-# Yshell-color
+## Yshell-color
 ***
 Terminal shell prompt color
 
 ### 控制字符
-***
+---
 * F == 字体标记
 * B == 背景标记
 * L == 浅色标记
