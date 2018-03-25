@@ -2,8 +2,7 @@
 ***
 Terminal shell prompt color
 
-### 控制字符
------
+## 控制字符
 * F == 字体标记
 * B == 背景标记
 * L == 浅色标记
@@ -18,13 +17,11 @@ Terminal shell prompt color
 * E == 结束
 * END == 结束
 
-### 使用
-***
+## 使用
 1. 首先，把 Yshell-color.js 引入到 nodejs 项目中
 2. 其次，调用函数 参数依次为 v 输出字符串 x 左定界符 y 右定界符 返回值为处理后的字符串
 
-### 示例
-***
+## 示例
 ```javascript
 // test.js 文件
 // 引入 YConsole-colors 包
