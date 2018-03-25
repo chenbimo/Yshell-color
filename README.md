@@ -1,5 +1,4 @@
 ## Yshell-color
-***
 Terminal shell prompt color
 
 ## 控制字符
